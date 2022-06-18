@@ -1,6 +1,5 @@
-<h1>Hello Everyone 👋
-everyone can call me "van"</h1>
-
+<h1>Hello Everyone 👋</h1>
+<p>everyone can call me "van"</p>
 
 <!--
 **rivaannn/rivaannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
