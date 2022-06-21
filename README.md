@@ -1,4 +1,4 @@
-<h1>Hi, Let me introduce 👋</h1>
+<h1>Hi👋</h1>
 <h3>everyone can call me "van"</h3>
 
 <!--
