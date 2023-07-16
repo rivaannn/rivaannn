@@ -1,12 +1,15 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Mahdiye+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
- </p>
+  <br>
+  <samp>
+    Hi Everyone 👩‍💻💻! I'm <b><a rel="nofollow noopener noreferrer">vVan</a></b>.
+    <br>I'm a Computer Engineering  Student from Indonesia<br>
 
-### Hi Everyone 👩‍💻💻
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
 
   
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Find out about me👋</b>
