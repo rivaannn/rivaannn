@@ -19,6 +19,6 @@
 
 
 ----
-From :  [rivaannn](https://github.com/rivaannn)
+Credits :  [rivaannn](https://github.com/rivaannn)
 
  
