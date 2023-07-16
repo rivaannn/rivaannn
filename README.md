@@ -2,8 +2,9 @@
 <h1 align="center">👋 Hi Everyone! I'm Van</h1>
 
 <div align="center">
-  <img src="[https://github.com/p-w/p-w/raw/main/intro.gif](https://github.com/rivaannn/rivaannn/assets/93449889/e5d661fb-91ae-401b-b491-ba5628df0f77)" alt="Rivan">
+  <img src="https://github.com/rivaannn/rivaannn/assets/93449889/8bec7147-df61-44fb-b0e8-3c12f5a4507b" alt="Rivan">
 </div>
+
 
 ----
   
