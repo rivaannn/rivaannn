@@ -19,7 +19,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/muhamad-rivan-sahronie-082283246/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rivaann_/)
 
-
+</details>
 
 ----
 From :  [rivaannn](https://github.com/rivaannn)
