@@ -7,7 +7,7 @@
 
 </samp>
 
-<div class="tenor-gif-embed" data-postid="18636675" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/computer-typing-aesthetic-anime-gif-18636675">Computer Typing GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/bqmpH.gif" width="200"/>
 
 </p>
 
