@@ -7,7 +7,7 @@
 
 </samp>
 
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif " width="50" />
+<img alt="Typing Animation" src="https://github.com/rivaannn/rivaannn/assets/93449889/41b22ffa-ba70-4c96-9933-6cd8f30eb316">
 
 </p>
 
@@ -16,7 +16,7 @@
 <p align="center">
   <br>
   <samp>
-     Find More About Me 
+     Find More About Me :
 </samp>
 
 </p>
