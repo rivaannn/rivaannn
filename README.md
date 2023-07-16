@@ -2,12 +2,12 @@
 <p align="center">
   <br>
   <samp>
-    Hi Everyone 👩‍💻💻! I'm <b><a rel="nofollow noopener noreferrer">vVan</a></b>.
+    Hi Everyone 👩‍💻💻! I'm <b><a rel="nofollow noopener noreferrer">Van</a></b>.
     <br>I'm a Computer Engineering  Student from Indonesia<br>
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+<div class="tenor-gif-embed" data-postid="18636675" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/computer-typing-aesthetic-anime-gif-18636675">Computer Typing GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </p>
 
