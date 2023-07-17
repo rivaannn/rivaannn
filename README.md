@@ -10,7 +10,7 @@
   
 
 
-<h1>Social Media : </h1>
+<h1>🙌 Social Media : </h1>
   
 [![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:mrivans2002@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/muhamad-rivan-sahronie-082283246/)
