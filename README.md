@@ -11,7 +11,14 @@ I am following the **Cloud Computing** Learning path at [Dicoding](https://www.d
 
 
 ----
-  
+
+ ### Github Statistic
+<p align="left">
+<a href="https://github.com/rivaannn/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rivaannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rivaannn&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <h1>🙌 Social Media : </h1>
