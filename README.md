@@ -1,7 +1,6 @@
 
-<h1>👋 Hi Everyone!</h1>
-
-Introducing my name **Muhamad Rivan Sahronie**.<br>
+<h1>👋 Hi Everyone!, I'm Muhamad Rivan Sahronie</h1>
+<br>
 
 I am following the **Cloud Computing** Learning path at [Dicoding](https://www.dicoding.com/).<br>
 
@@ -12,7 +11,7 @@ I am following the **Cloud Computing** Learning path at [Dicoding](https://www.d
 
 ----
 
- ### Github Statistic
+ <h1> Github Statistic </h1>
 <p align="left">
 <a href="https://github.com/rivaannn/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rivaannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
