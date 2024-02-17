@@ -1,5 +1,9 @@
 
-<h1>👋 Hi Everyone! I'm van</h1>
+<h1>👋 Hi Everyone!</h1>
+
+Introducing my name **Muhamad Rivan Sahronie**.<br>
+
+I am following the **Cloud Computing** Learning path at [Dicoding](https://www.dicoding.com/).<br>
 
 <div align="center">
   <img src="https://github.com/rivaannn/rivaannn/assets/93449889/8bec7147-df61-44fb-b0e8-3c12f5a4507b" alt="Rivan" width="500">
