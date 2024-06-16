@@ -2,7 +2,7 @@
 <h1>👋 Hi Everyone!, I'm Muhamad Rivan Sahronie</h1>
 <br>
 
-I am following the **Cloud Computing** Learning path at [Dicoding](https://www.dicoding.com/).<br>
+I am following the **Cloud Computing** Learning path at [Bangkit Academy 2024 Batch 1](https://www.dicoding.com/).<br>
 
 <div align="center">
   <img src="https://github.com/rivaannn/rivaannn/assets/93449889/8bec7147-df61-44fb-b0e8-3c12f5a4507b" alt="Rivan" width="500">
