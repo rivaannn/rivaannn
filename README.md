@@ -32,12 +32,15 @@ I specialize in Web Development and Cloud Computing, focusing on developing APIs
 </ul>
 
 ---
+
 <h1>🌱 Current Learning and Projects</h1>
 <ul>
   <li>Building responsive and dynamic web applications</li>
   <li>Developing a secure and efficient API for a Machine Learning project</li>
   <li>Enhancing skills in scalable cloud architecture design</li>
 </ul>
+
+
 ---
 
 <h1>🙌 Social Media : </h1>
