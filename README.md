@@ -25,7 +25,7 @@ I specialize in Web Development and Cloud Computing, focusing on developing APIs
 <h1>💼 Professional Skills</h1>
 <ul>
   <li>Web Development: HTML, CSS, JavaScript, React</li>
-  <li>Back-End Development: Node.js/li>
+  <li>Back-End Development: Node.js</li>
   <li>API Development: RESTful APIs</li>
   <li>Cloud Computing: Google Cloud Platform</li>
   <li>Authentication Systems: OAuth, JWT</li>
