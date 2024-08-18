@@ -33,16 +33,6 @@ I specialize in Web Development and Cloud Computing, focusing on developing APIs
 
 ---
 
-<h1>🌱 Current Learning and Projects</h1>
-<ul>
-  <li>Building responsive and dynamic web applications</li>
-  <li>Developing a secure and efficient API for a Machine Learning project</li>
-  <li>Enhancing skills in scalable cloud architecture design</li>
-</ul>
-
-
----
-
 <h1>🙌 Social Media : </h1>
   
 [![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:mrivans2002@gmail.com)
@@ -55,5 +45,5 @@ I specialize in Web Development and Cloud Computing, focusing on developing APIs
 ----
 Credits :  [rivaannn](https://github.com/rivaannn)
 <br>
-Last Edited on: 16/07/2023
+Last Edited on: 18/08/2023
  
