@@ -46,6 +46,14 @@ I specialize in Web Development and Cloud Computing, focusing on developing APIs
 
 ---
 
+<h1>🙌 Social Media : </h1>
+  
+[![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:mrivans2002@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/muhamad-rivan-sahronie-082283246/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rivaann_/)
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)](https://github.com/rivaannn)
+
+----
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rivaannn&&style=flat-square" align="center" />
 </div>  
@@ -56,24 +64,11 @@ I specialize in Web Development and Cloud Computing, focusing on developing APIs
         <a href="https://paypal.me/paypal.me/rivaannn" target="_blank" style="display: inline-block;">
             <img
                 src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                align="center"
+                align="start"
             />
         </a>
 </div>
 <br />
-
----
-
-<h1>🙌 Social Media : </h1>
-  
-[![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:mrivans2002@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/muhamad-rivan-sahronie-082283246/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rivaann_/)
-[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)](https://github.com/rivaannn)
-
-
-
-----
 Credits :  [rivaannn](https://github.com/rivaannn)
 <br>
 Last Edited on: 10/10/2024
