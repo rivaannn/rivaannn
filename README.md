@@ -46,6 +46,24 @@ I specialize in Web Development and Cloud Computing, focusing on developing APIs
 
 ---
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rivaannn&&style=flat-square" align="center" />
+</div>  
+  
+<br/>  
+
+<div align="center">
+        <a href="https://paypal.me/paypal.me/rivaannn" target="_blank" style="display: inline-block;">
+            <img
+                src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                align="center"
+            />
+        </a>
+</div>
+<br />
+
+---
+
 <h1>🙌 Social Media : </h1>
   
 [![Mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:mrivans2002@gmail.com)
