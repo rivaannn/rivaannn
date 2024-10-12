@@ -5,6 +5,10 @@
 I am following the **Cloud Computing** Learning path at [Bangkit Academy 2024 Batch 1](https://www.dicoding.com/).<br>
 I specialize in Web Development and Cloud Computing, focusing on developing APIs for Machine Learning model deployment and authentication systems.
 
+<div align="#">
+<img src="https://komarev.com/ghpvc/?username=rivaannn&&style=flat-square"/>
+</div> 
+
 ----
 
 <h1>📊 GitHub Statistics</h1>
@@ -54,21 +58,6 @@ I specialize in Web Development and Cloud Computing, focusing on developing APIs
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)](https://github.com/rivaannn)
 
 ----
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rivaannn&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
-
-<div align="center">
-        <a href="https://paypal.me/paypal.me/rivaannn" target="_blank" style="display: inline-block;">
-            <img
-                src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                align="start"
-            />
-        </a>
-</div>
-<br />
 Credits :  [rivaannn](https://github.com/rivaannn)
 <br>
 Last Edited on: 10/10/2024
