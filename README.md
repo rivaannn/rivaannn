@@ -5,8 +5,8 @@
 I am following the **Cloud Computing** Learning path at [Bangkit Academy 2024 Batch 1](https://www.dicoding.com/).<br>
 I specialize in Web Development and Cloud Computing, focusing on developing APIs for Machine Learning model deployment and authentication systems.
 
-<div align="#">
-<img src="https://komarev.com/ghpvc/?username=rivaannn&&style=flat-square"/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rivaannn&&style=flat-square" align="center"/>
 </div> 
 
 ----
