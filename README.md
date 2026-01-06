@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently exploring **Next.js, Express.js and TypeScript**
 - 🎨 I love crafting **clean & aesthetic UI/UX**
-- 📫 How to reach me: **mrivans2002@gmail.com**
+- 📫 How to reach me: **muhamadrivansahronie@gmail.com**
 
 <br/>
 
