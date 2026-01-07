@@ -1,68 +1,90 @@
+<!-- Banner -->
+<p align="center">
+  <img src="img/bannerGithub.jpg" width="100%" alt="Banner"/>
+</p>
+
+<!-- Profile Section -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Mulish&weight=700&size=32&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=500&lines=Hi+everyone!+%F0%9F%91%8B+i'm+van;a+creative+web+developer." alt="Typing SVG" />
-  </a>
   <br/>
-  <p><i>Building minimalist, functional, and responsive web applications.</i></p>
+  <img src="img/vanGithub.png" width="150" alt="Avatar"/>
+  <br/><br/>
+  
+  <h2>Hey there! I'm <b>Van</b> 👋</h2>
+  
+  <p>
+    <em>A creative web developer who loves building<br/>minimalist, functional, and beautiful web experiences.</em>
+  </p>
+  
 </div>
 
 <br/>
 
-### ⚡ About Me
-
-- 🌱 I’m currently exploring **Next.js, Express.js and TypeScript**
-- 🎨 I love crafting **clean & aesthetic UI/UX**
-- 📫 How to reach me: **muhamadrivansahronie@gmail.com**
+---
 
 <br/>
 
-<details>
-<summary><b>✨ Discover More</b></summary>
-<br/>
-Currently open for freelance projects and collaboration. I focus on writing clean code and creating intuitive user experiences.
-</details>
+### 🧑‍💻 About
 
-<br/>
-<hr/>
+```js
+const van = {
+  location: "Indonesia 🇮🇩",
+  learning: ["Next.js", "Express.js", "TypeScript"],
+  passion: "Clean & Aesthetic UI/UX",
+  available: true, // Open for freelance & collaboration
+};
+```
+
 <br/>
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,php,laravel,git&perline=6&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=gcp,figma&theme=dark" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Balsamiq-242938?style=flat-square&logo=balsamiq&logoColor=white" height="48" style="vertical-align: middle; border-radius: 6px;" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nodejs,php,laravel,git&theme=dark" alt="Backend & Tools"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=figma,gcp&theme=dark" alt="Design & Cloud"/>
+</p>
 
 <br/>
+
+### 📊 GitHub Stats
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rivaannn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6C9EFF&icon_color=6C9EFF&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rivaannn&show_icons=true&hide_border=true" height="165" alt="Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaannn&layout=compact&hide_border=true&bg_color=0d1117&title_color=6C9EFF&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaannn&layout=compact&hide_border=true" height="165" alt="Languages"/>
+  </picture>
+</p>
+
 <br/>
 
-### 🤝 Let's Connect
+### 🤝 Connect with Me
 
-<p align="left">
-  <a href="mailto:mrivans2002@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p>
+  <a href="mailto:muhamadrivansahronie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhamad-rivan-sahronie-082283246/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/muhamad-rivan-sahronie-082283246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/rivaann_/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/rivaann_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+---
 
-<p align="center">
-  <samp>
-    <br/>
-    <span style="color: #666;"> Last Updated:</span>
-    <br/>
-    <b>Monday, 01 December 2025</b>
-  </samp>
-</p>
+<br/>
+
+<div align="center">
+  <sub>✨ <em>"Simplicity is the ultimate sophistication."</em></sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=rivaannn&style=flat-square&color=6C9EFF&label=Profile+Views" alt="Profile Views"/>
+</div>
