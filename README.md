@@ -65,14 +65,8 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pwshRivan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=ffffff&title_color=ffffff&text_color=c9d1d9&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pwshRivan&show_icons=true&hide_border=true&count_private=true" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pwshRivan&theme=github-dark-blue&hide_border=true&background=0d1117"/>
-  <img src="https://streak-stats.demolab.com?user=pwshRivan&hide_border=true" height="165"/>
-</picture>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pwshRivan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=ffffff&title_color=ffffff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=pwshRivan&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
 
 <br><br>
 
