@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED HEADER - MONOCHROME -->
+<!-- animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=120&section=header"/>
 
-<!-- ANIMATED GREETING - MONOCHROME -->
+<!-- typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhamad+Rivan+Sahronie+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
@@ -12,7 +12,7 @@
 
 </div>
 
-<!-- ABOUT SECTION -->
+<!-- about me -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ### 👀 About Me
@@ -66,7 +66,7 @@
 <br>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pwshRivan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=ffffff&title_color=ffffff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=pwshRivan&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats-sigma-five.vercel.app?user=pwshRivan&theme=github-dark-blue&hide_border=true&background=0D1117" height="165"/>
 
 <br><br>
 
