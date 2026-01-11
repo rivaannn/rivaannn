@@ -15,39 +15,33 @@
 
 ---
 
-### 👀 About Me
+## 👀 About Me & 🌱 Currently Learning
 
 - 🚀 Building **clean & scalable web applications**
-- ⚡ **React, Next.js, Laravel, TypeScript**
-- 🎨 Love **good UI/UX & smooth interactions**
+- ⚛️ Focused on **React** for modern frontend development
+- 🎨 Passionate about **good UI/UX & smooth interactions**
+- 🌱 Currently learning **Next.js** (full-stack React) & **Docker**
 
 ---
 
-### 🌱 Currently Learning
-
-- ⚛️ **Next.js** (full-stack)
-- 🐹 **Golang**
-- 🐳 **Docker**
-
----
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat&logo=css3&logoColor=white)
+<!-- Core -->
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-1a1a1a?style=flat&logo=laravel&logoColor=white)
+
+<!-- Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-1a1a1a?style=flat&logo=go&logoColor=white)
 
-![React](https://img.shields.io/badge/React-1a1a1a?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-1a1a1a?style=flat&logo=laravel&logoColor=white)
-
+<!-- Styling -->
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat&logo=tailwind-css&logoColor=white)
+
+<!-- Tools -->
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat&logo=git&logoColor=white)
@@ -56,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
