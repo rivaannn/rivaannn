@@ -15,7 +15,7 @@
 
 ---
 
-## 👀 About Me & 🌱 Currently Learning
+## 👀 About Me 
 
 - 🚀 Building **clean & scalable web applications**
 - ⚛️ Focused on **React** for modern frontend development
